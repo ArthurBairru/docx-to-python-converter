@@ -1,4 +1,4 @@
-<h1 align="center">Docx to Python Converter - Uma ferramenta para recriar documentos Word usando Python</h1> <p align="center"><br><br></b> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Word Document Recreator Logo" width="120px" height="120px"/> <br><br> <i>Este script Python é uma ferramenta para analisar documentos Word existentes e gerar código Python <br>que pode recriar o documento de forma programática, preservadas formatação, tabelas e estilos.</i> </p><p align="center"> </p>
+<h1 align="center">Docx to Python Converter - Uma ferramenta para recriar documentos Word usando Python</h1> <p align="center"><br><br></b> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Word Document Recreator Logo" width="120px" height="120px"/> <br><br> <i>Este script Python é uma ferramenta para analisar documentos Word existentes e gerar código Python <br>que pode recriar o documento de forma programática, preservadas formatações, tabelas e estilos.</i> </p><p align="center"> </p>
 
 <br>
 
